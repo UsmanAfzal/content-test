@@ -1,43 +1,46 @@
 <p>Dissolution is the official term for the end of a Parliament. Under the Fixed-term Parliaments Act 2011 a general election must be held in the UK, and a new Parliament elected, every five years.</p>
 
 <ul class="list-bullet">
-<li>How can Parliament be dissolved?</li>
-<li>What happens to Parliament at dissolution?</li>
-<li>What happens to the Government when Parliament is dissolved?</li>
-<li>Commons Library briefings</li>
+  <li>How can Parliament be dissolved?</li>
+  <li>What happens to Parliament at dissolution?</li>
+  <li>What happens to the Government when Parliament is dissolved?</li>
+  <li>Commons Library briefings</li>
+</ul>
 
 <h2>How can Parliament be dissolved?</h2>
 <p>By law, Parliament is dissolved 25 working days before a general election.</p>
 
 <p>The next general election will be held on Thursday 8 June 2017, meaning Parliament will be dissolved at 00.01am on Wednesday 3 May 2017.</p>
 
-Parliament may be 'prorogued' a few days before dissolution. At prorogation, all parliamentary business ends but Parliament continues to exist until dissolution.
+<p>Parliament may be 'prorogued' a few days before dissolution. At prorogation, all parliamentary business ends but Parliament continues to exist until dissolution.</p>
 
-*   [Legislation.UK: Fixed-term Parliaments Act 2011, section 3: Dissolution of Parliament (external site)](http://www.legislation.gov.uk/ukpga/2011/14/section/3)
-*   [Read more about Parliament: Prorogation](http://www.parliament.uk/about/how/occasions/prorogation/)
-*   [Read Parliament News: End of the 2014-15 Parliamentary session](http://www.parliament.uk/business/news/2015/march/prorogation-end-of-session/)
+<ul>
+  <li><a href="http://www.legislation.gov.uk/ukpga/2011/14/section/3">Legislation.UK: Fixed-term Parliaments Act 2011, section 3: Dissolution of Parliament</a></li>
+  <li><a href="http://www.parliament.uk/about/how/occasions/prorogation/">Read more about Parliament: Prorogation</a></li>
+  <li><a href="http://www.parliament.uk/business/news/2015/march/prorogation-end-of-session/">Read Parliament News: End of the 2014-15 Parliamentary session</a></li>
+  </ul>
 
-## What happens to Parliament at dissolution?
+<h2>What happens to Parliament at dissolution?</h2>
 
-### House of Commons
+<h3>House of Commons</h3>
 
-When Parliament is dissolved, every seat in the House of Commons becomes vacant. All business in the House comes to an end. There are no Members of Parliament. MPs revert to being members of the public and lose privileges associated with being a Member of Parliament.
+<p>When Parliament is dissolved, every seat in the House of Commons becomes vacant. All business in the House comes to an end. There are no Members of Parliament. MPs revert to being members of the public and lose privileges associated with being a Member of Parliament.</p>
 
-MPs are allowed access to Parliament for just a few days in which to remove papers from their offices. The facilities that the House provides for MPs in Westminster during a Parliament are no longer available to them from 5pm on the day of dissolution.
+<p>MPs are allowed access to Parliament for just a few days in which to remove papers from their offices. The facilities that the House provides for MPs in Westminster during a Parliament are no longer available to them from 5pm on the day of dissolution.</p>
 
-Until a new Parliament is elected, there are no MPs. Those who wish to be MPs again must stand again as candidates for election.
+<p>Until a new Parliament is elected, there are no MPs. Those who wish to be MPs again must stand again as candidates for election.</p>
 
-**Role of the Commons Speaker at dissolution**
+<h4>Role of the Commons Speaker at dissolution</h4>
 
-The Speaker is no longer an MP once Parliament is dissolved as there are no longer any MPs until the new Parliament is returned.
+<p>The Speaker is no longer an MP once Parliament is dissolved as there are no longer any MPs until the new Parliament is returned.<p>
 
-Like every other MP, the Speaker must stand for re-election at a general election if he or she wishes to become an MP again. If the Speaker stands as a candidate in the election they stand as 'Speaker seeking re-election'.
+<p>Like every other MP, the Speaker must stand for re-election at a general election if he or she wishes to become an MP again. If the Speaker stands as a candidate in the election they stand as 'Speaker seeking re-election'.</p>
 
-### House of Lords
+<h3>House of Lords</h3>
 
-Members of the House of Lords are appointed, not elected. Members of the House of Lords retain their positions, but all business in the House comes to an end when Parliament is dissolved.
+<p>Members of the House of Lords are appointed, not elected. Members of the House of Lords retain their positions, but all business in the House comes to an end when Parliament is dissolved.</p>
 
-While Members of the Lords can access the premises of Parliament, only limited facilities and services are available to them.
+<p>While Members of the Lords can access the premises of Parliament, only limited facilities and services are available to them.</p>
 
 *   [Find out more: How members of the House of Lords are appointed](http://www.parliament.uk/business/lords/whos-in-the-house-of-lords/members-and-their-roles/how-members-are-appointed/)
 
@@ -76,11 +79,3 @@ The Library has published briefing papers on the Fixed-term Parliaments Act 201
 
 *   [Fixed-term Parliaments Act 2011: House of Commons Library briefing paper](http://www.parliament.uk/business/publications/research/briefing-papers/SN06111/fixedterm-parliaments-act-2011)
 *   [Dissolution of Parliament: House of Commons Library briefing paper](http://www.parliament.uk/business/publications/research/briefing-papers/SN05085/dissolution-of-parliament)
-
-Image: iStock
-
-</div>
-
-</div>
-
-</div>
