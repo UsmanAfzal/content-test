@@ -1,25 +1,15 @@
-<div class="inner">
+<p>Dissolution is the official term for the end of a Parliament. Under the Fixed-term Parliaments Act 2011 a general election must be held in the UK, and a new Parliament elected, every five years.</p>
 
-<div class="rte main-introduction">
+<ul class="list-bullet">
+<li>How can Parliament be dissolved?</li>
+<li>What happens to Parliament at dissolution?</li>
+<li>What happens to the Government when Parliament is dissolved?</li>
+<li>Commons Library briefings</li>
 
-Dissolution is the official term for the end of a Parliament. Under the Fixed-term Parliaments Act 2011 a general election must be held in the UK, and a new Parliament elected, every five years.
+<h2>How can Parliament be dissolved?</h2>
+<p>By law, Parliament is dissolved 25 working days before a general election.</p>
 
-</div>
-
-*   [How can Parliament be dissolved?](#jump-link-0)
-*   [What happens to Parliament at dissolution?](#jump-link-1)
-*   [What happens to the Government when Parliament is dissolved?](#jump-link-2)
-*   [Commons Library briefings](#jump-link-3)
-
-<div id="ctl00_ctl00_FormContent_SiteSpecificPlaceholder_PageContent_ctlMainBody_wrapperDiv" class="rte">
-
-<div>
-
-## How can Parliament be dissolved?
-
-By law, Parliament is dissolved 25 working days before a general election.
-
-The next general election will be held on Thursday 8 June 2017, meaning Parliament will be dissolved at 00.01am on Wednesday 3 May 2017.
+<p>The next general election will be held on Thursday 8 June 2017, meaning Parliament will be dissolved at 00.01am on Wednesday 3 May 2017.</p>
 
 Parliament may be 'prorogued' a few days before dissolution. At prorogation, all parliamentary business ends but Parliament continues to exist until dissolution.
 
