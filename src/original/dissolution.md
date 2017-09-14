@@ -52,7 +52,7 @@
 
 <p>It is customary for the Prime Minister to recommend new life peerages for some former MPs to the Queen at the end of a Parliament in a Dissolution Honours list.</p>
 
-<li><a href="https://www.gov.uk/government/news/dissolution-honours-2015">GOV.UK: Press Release - Dissolution Honours 2015: 27 August 2015</li>
+<li><a href="https://www.gov.uk/government/news/dissolution-honours-2015">GOV.UK: Press Release - Dissolution Honours 2015: 27 August 2015</a></li>
 
 <h2>What happens to the Government when Parliament is dissolved?</h2>
 
