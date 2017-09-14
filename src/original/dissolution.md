@@ -9,7 +9,7 @@
   <li>Commons Library briefings</li>
 </ul>
 
-<section class="highlight--status theme--grey-4" id="contextual__dissolution">
+<section class="status--highlight theme--grey-4" id="contextual__dissolution">
 <h2>How can Parliament be dissolved?</h2>
 <p>By law, Parliament is dissolved 25 working days before a general election.</p>
 
