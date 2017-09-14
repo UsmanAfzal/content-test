@@ -42,40 +42,47 @@
 
 <p>While Members of the Lords can access the premises of Parliament, only limited facilities and services are available to them.</p>
 
-*   [Find out more: How members of the House of Lords are appointed](http://www.parliament.uk/business/lords/whos-in-the-house-of-lords/members-and-their-roles/how-members-are-appointed/)
+<ul>
+  <li><a href="http://www.parliament.uk/business/lords/whos-in-the-house-of-lords/members-and-their-roles/how-members-are-appointed">Find out more: How members of the House of Lords are appointed</a></li>
+</ul>
 
-### Dissolution honours for former MPs
+<h3Dissolution honours for former MPs</h3>
 
-It is customary for the Prime Minister to recommend new life peerages for some former MPs to the Queen at the end of a Parliament in a Dissolution Honours list.
+<p>It is customary for the Prime Minister to recommend new life peerages for some former MPs to the Queen at the end of a Parliament in a Dissolution Honours list.</p>
 
-*   [GOV.UK: Press Release - Dissolution Honours 2015: 27 August 2015 (external site)](https://www.gov.uk/government/news/dissolution-honours-2015)
+<li><a href="https://www.gov.uk/government/news/dissolution-honours-2015">GOV.UK: Press Release - Dissolution Honours 2015: 27 August 2015</li>
 
-## What happens to the Government when Parliament is dissolved?
+<h2>What happens to the Government when Parliament is dissolved?</h2>
 
-Parliament and Government are two separate institutions.
+<p>Parliament and Government are two separate institutions.</p>
 
-The Government does not resign when Parliament is dissolved. Government ministers remain in charge of their departments until after the result of the election is known and a new administration is formed.
+<p>The Government does not resign when Parliament is dissolved. Government ministers remain in charge of their departments until after the result of the election is known and a new administration is formed.</p>
 
-The Prime Minister is appointed by the Sovereign. Ministers are appointed by the Sovereign on the advice of the Prime Minister. These appointments are independent of the role of MP. Ministers retain their ministerial titles after dissolution, but those who were MPs can no longer use the MP suffix.
+<p>The Prime Minister is appointed by the Sovereign. Ministers are appointed by the Sovereign on the advice of the Prime Minister. These appointments are independent of the role of MP. Ministers retain their ministerial titles after dissolution, but those who were MPs can no longer use the MP suffix.</p>
 
-The Cabinet Manual sets out the main laws, rules and conventions affecting the conduct and operation of government.
+<p>The Cabinet Manual sets out the main laws, rules and conventions affecting the conduct and operation of government.</p>
 
-*   [Read more about Parliament: Parliament and Government](http://www.parliament.uk/about/how/role/parliament-government/)
-*   [GOV.UK: How government works (external site)](https://www.gov.uk/government/how-government-works)
-*   [GOV.UK: The Cabinet Manual (external site)](https://www.gov.uk/government/publications/cabinet-manual)
+<ul>
+  <li><a href="http://www.parliament.uk/about/how/role/parliament-government/">Read more about Parliament: Parliament and Government</a></li>
+  <li><a href="https://www.gov.uk/government/how-government-works">GOV.UK: How government works</a></li>
+  <li><a href="https://www.gov.uk/government/publications/cabinet-manual">GOV.UK: The Cabinet Manual</a></li>
+</ul>
 
-### Pre-election period 
+<h3>Pre-election period</h3>
 
-Guidance is issued to civil servants on the principles that they should observe in relation to the conduct of Government business in the run-up to forthcoming elections. This period is sometimes referred to as 'purdah'. In 2015 the pre-election period commenced at dissolution, on 30 March.
+<p>Guidance is issued to civil servants on the principles that they should observe in relation to the conduct of Government business in the run-up to forthcoming elections. This period is sometimes referred to as 'purdah'. In 2015 the pre-election period commenced at dissolution, on 30 March.</p>
 
-*   [Election 'purdah' or the pre-election period: House of Commons Library paper](http://www.parliament.uk/briefing-papers/SN05262/election-purdah-or-the-preelection-period)
-*   [GOV.UK: Election guidance for civil servants (external site)](https://www.gov.uk/government/publications/election-guidance-for-civil-servants)
+<ul>
+  <li><a href="http://www.parliament.uk/briefing-papers/SN05262/election-purdah-or-the-preelection-period">Election 'purdah' or the pre-election period: House of Commons Library paper</a></li>
+  <li><a href="https://www.gov.uk/government/publications/election-guidance-for-civil-servants">GOV.UK: Election guidance for civil servants</a></li>
 
-## Commons Library briefings
+<h2>Commons Library briefings</h2>
 
-The House of Commons Library produces briefing papers to inform MPs and their staff of key issues. The papers contain factual information and a range of opinions on each subject, and aim to be politically impartial.
+<p>The House of Commons Library produces briefing papers to inform MPs and their staff of key issues. The papers contain factual information and a range of opinions on each subject, and aim to be politically impartial.</p>
 
-The Library has published briefing papers on the Fixed-term Parliaments Act 2011 and the dissolution of Parliament.
+<p>The Library has published briefing papers on the Fixed-term Parliaments Act 2011 and the dissolution of Parliament.</p>
 
-*   [Fixed-term Parliaments Act 2011: House of Commons Library briefing paper](http://www.parliament.uk/business/publications/research/briefing-papers/SN06111/fixedterm-parliaments-act-2011)
-*   [Dissolution of Parliament: House of Commons Library briefing paper](http://www.parliament.uk/business/publications/research/briefing-papers/SN05085/dissolution-of-parliament)
+<ul>
+  <li><a href="http://www.parliament.uk/business/publications/research/briefing-papers/SN06111/fixedterm-parliaments-act-2011">ixed-term Parliaments Act 2011: House of Commons Library briefing paper</a></li>
+  <li><a href="http://www.parliament.uk/business/publications/research/briefing-papers/SN05085/dissolution-of-parliament">Dissolution of Parliament: House of Commons Library briefing paper</a></li>
+</ul>
