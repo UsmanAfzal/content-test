@@ -7,6 +7,7 @@
   <li>Commons Library briefings</li>
 </ul>
 
+<section id="contextual__dissolution">
 <h2>How can Parliament be dissolved?</h2>
 <p>By law, Parliament is dissolved 25 working days before a general election.</p>
 
@@ -19,6 +20,7 @@
   <li><a href="http://www.parliament.uk/about/how/occasions/prorogation/">Read more about Parliament: Prorogation</a></li>
   <li><a href="http://www.parliament.uk/business/news/2015/march/prorogation-end-of-session/">Read Parliament News: End of the 2014-15 Parliamentary session</a></li>
   </ul>
+</section>
 
 <h2>What happens to Parliament at dissolution?</h2>
 
@@ -75,6 +77,7 @@
 <ul>
   <li><a href="http://www.parliament.uk/briefing-papers/SN05262/election-purdah-or-the-preelection-period">Election 'purdah' or the pre-election period: House of Commons Library paper</a></li>
   <li><a href="https://www.gov.uk/government/publications/election-guidance-for-civil-servants">GOV.UK: Election guidance for civil servants</a></li>
+</ul>
 
 <h2>Commons Library briefings</h2>
 
@@ -83,6 +86,6 @@
 <p>The Library has published briefing papers on the Fixed-term Parliaments Act 2011 and the dissolution of Parliament.</p>
 
 <ul>
-  <li><a href="http://www.parliament.uk/business/publications/research/briefing-papers/SN06111/fixedterm-parliaments-act-2011">ixed-term Parliaments Act 2011: House of Commons Library briefing paper</a></li>
+  <li><a href="http://www.parliament.uk/business/publications/research/briefing-papers/SN06111/fixedterm-parliaments-act-2011">Fixed-term Parliaments Act 2011: House of Commons Library briefing paper</a></li>
   <li><a href="http://www.parliament.uk/business/publications/research/briefing-papers/SN05085/dissolution-of-parliament">Dissolution of Parliament: House of Commons Library briefing paper</a></li>
 </ul>
