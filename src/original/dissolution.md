@@ -1,4 +1,4 @@
-<h2> What is Dissolution?</h2>
+<h2>What is Dissolution</h2>
 
 <p>Dissolution is the official term for the end of a Parliament. Under the Fixed-term Parliaments Act 2011 a general election must be held in the UK, and a new Parliament elected, every five years.</p>
 
